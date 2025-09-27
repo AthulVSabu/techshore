@@ -1,0 +1,15 @@
+/* my custom tailwind css start */
+
+.bg-edblue
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+
+/* my custom tailwind css end */
+.logo img
+{
+    width: 200px ;
+}
